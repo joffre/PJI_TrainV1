@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\libs\osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\build\intermediates\pre-dexed\debug\osmdroid-android-4.2-44d507e7e6a8b8203f64ecb83ed9ef09a4f2df6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1-51f1e1bcb983d20e9b69a47869940e6980e3bd62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Users\Geoffrey\hubiC\Master 1\Semestre 2\PJI\V0\train-master-716d0a146dff6b1a33417560501c202737966d9a\Application Android\PJI_Train\build\intermediates\pre-dexed\debug\android-support-v4-439b5f95dceceb21ee9ec5074ee487117389a3a9.jar" />
+    </item>
+
+</items>

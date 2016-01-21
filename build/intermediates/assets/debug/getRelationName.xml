@@ -1,0 +1,8 @@
+<osm>
+	<relation id="3875507">TER 8 Dunkerque - Hazebrouck - Lille Flandres</relation>
+	<relation id="3061175">TER 8 Lille Flandres - Hazebrouck - Dunkerque</relation>
+	<relation id="3862712">TER 6 Dunkerque - Hazebrouck - Arras</relation>
+	<relation id="3876754">TER 9 Calais - Dunkerque</relation>
+	<relation id="3862711">TER 6 Arras - Hazebrouck - Dunkerque</relation>
+	<relation id="3876755">TER 9 Dunkerque - Calais</relation>
+</osm>

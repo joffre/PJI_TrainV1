@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="fr.pji.train.Accueil$PlaceholderFragment" >
+
+	<Spinner
+	 android:layout_width="match_parent"
+	 android:layout_height="wrap_content"
+	 android:id="@+id/spinner"
+	 />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Geoffrey/hubiC/Master%201/Semestre%202/PJI/V0/train-master-716d0a146dff6b1a33417560501c202737966d9a/Application%20Android/PJI_Train/res/layout/fragment_pois.xml -->
