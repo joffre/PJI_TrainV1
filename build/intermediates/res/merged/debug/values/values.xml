@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Geoffrey/hubiC/Master%201/Semestre%202/PJI/V0/train-master-716d0a146dff6b1a33417560501c202737966d9a/Application%20Android/PJI_Train/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Geoffrey/AndroidStudioProjects/PJI_TrainV1/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="navigationDrawer_icons">
         <item>menu_pois</item>
@@ -20,12 +20,12 @@
         <item>Carte</item>
         <item>Métro</item>
     </string-array>
-    <!-- From: file:/C:/Users/Geoffrey/hubiC/Master%201/Semestre%202/PJI/V0/train-master-716d0a146dff6b1a33417560501c202737966d9a/Application%20Android/PJI_Train/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Geoffrey/AndroidStudioProjects/PJI_TrainV1/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="navigation_drawer_width">240dp</dimen>
-    <!-- From: file:/C:/Users/Geoffrey/hubiC/Master%201/Semestre%202/PJI/V0/train-master-716d0a146dff6b1a33417560501c202737966d9a/Application%20Android/PJI_Train/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Geoffrey/AndroidStudioProjects/PJI_TrainV1/res/values/strings.xml -->
     <eat-comment/>
     <string name="URL_GET_NODES">http://10.0.2.2:8080/PJI84_serveur/osm/getNodesFromRelation/%1$s</string>
     <string name="URL_GET_POIS">http://10.0.2.2:8080/PJI84_serveur/osm/getPoisFromRelation/%1$s</string>
@@ -44,7 +44,7 @@
     <string name="title_section3">Accueil</string>
     <string name="title_section4">Préfèrences</string>
     <string name="title_section5">À propos</string>
-    <!-- From: file:/C:/Users/Geoffrey/hubiC/Master%201/Semestre%202/PJI/V0/train-master-716d0a146dff6b1a33417560501c202737966d9a/Application%20Android/PJI_Train/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Geoffrey/AndroidStudioProjects/PJI_TrainV1/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
